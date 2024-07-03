@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Henrique
-
-While many might call me a Software Engineer, I consider myself a Problem Solver at heart.
-I thrive on learning about diverse topics and working across various industries. My journey includes: Software Development, Startup Founder, Association Founder, Project Management, Networking Engineering, and more. I'm always looking for new challenges and opportunities to learn and grow 😄!
+While many might call me a Software Engineer, I consider myself a Problem Solver at heart.   
+I thrive on learning about diverse topics and working across various industries. My journey includes: Software Development, Startup Founder, Association Founder, Project Management, Networking Engineering, and more.  
+I'm always looking for new challenges and opportunities to learn and grow 😄!  
 
 <br>
 
@@ -13,8 +13,6 @@ I thrive on learning about diverse topics and working across various industries.
 <br>
 
 ## 💻 Favourite Languages & Tools 🧰
-
-<br>
 <div align="left" style="display: inline_block"><br>
   <img align="center" alt="Henrique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
