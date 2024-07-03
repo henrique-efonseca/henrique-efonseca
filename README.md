@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Henrique
 While many might call me a Software Engineer, I consider myself a Problem Solver at heart.   
-I thrive on learning about diverse topics and working across various industries. My journey includes: Software Development, Startup Founder, Association Founder, Project Management, Networking Engineering, and more.  
+I thrive on learning about diverse topics and working across various industries. My journey includes: Software Development, Startup Founder, Association Founder, Project Management, Networking Engineering, and more. My passion lies in leveraging technology to drive innovation and create solutions that propel progress and add value to society.   
 I'm always looking for new challenges and opportunities to learn and grow 😄!  
 
 <br>
