@@ -1,7 +1,8 @@
 ## 👋 Hi, I'm Henrique
-While many might call me a Software Engineer, I consider myself a Problem Solver at heart.   
-I thrive on learning about diverse topics and working across various industries. My journey includes: Software Development, Startup Founder, Association Founder, Project Management, Networking Engineering, and more. My passion lies in leveraging technology to drive innovation and create solutions that propel progress and add value to society.   
-I'm always looking for new challenges and opportunities to learn and grow 😄!  
+
+While many might call me a Software Engineer, I consider myself a Problem Solver at heart.  
+I thrive on learning about diverse topics and working across various industries. My journey includes: Software Development, Startup Founder, Association Founder, Project Management, Networking Engineering, and more. My passion lies in leveraging technology to drive innovation and create solutions that propel progress and add value to society.  
+I'm always looking for new challenges and opportunities to learn and grow 😄!
 
 <br>
 
@@ -13,17 +14,26 @@ I'm always looking for new challenges and opportunities to learn and grow 😄!
 <br>
 
 ## 💻 Favourite Languages & Tools 🧰
+
 <div align="left" style="display: inline_block"><br>
-  <img align="center" alt="Henrique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+
   <img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Henrique-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Henrique-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Henrique-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+
   <img align="center" alt="Henrique-NextJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
+
   <img align="center" alt="Henrique-MaterialUI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
-  <img align="center" alt="Henrique-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+
   <img align="center" alt="Henrique-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Henrique-NestJs" height="30" width="40" src="https://nestjs.com/img/logo_text.svg">
   <img align="center" alt="Henrique-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+    <img align="center" alt="Henrique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="Henrique-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="Henrique-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   <img align="center" alt="Henrique-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Henrique-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Henrique-Prisma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
   <img align="center" alt="Henrique-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Henrique-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
