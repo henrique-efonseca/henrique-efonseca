@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Henrique
 
-I don’t define myself by job titles - I’m a problem solver at heart.
-My aim is to contribute to society by creating solutions that drive progress and add real value to people’s lives.
+I don’t define myself by job titles - I’m a problem solver at heart. <br>
+My aim is to contribute to society by creating solutions that drive progress and add real value to people’s lives. <br>
 I’m always seeking new challenges and opportunities to learn and grow.
 <br>
 
